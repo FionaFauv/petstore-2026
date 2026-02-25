@@ -1,7 +1,7 @@
 # PetStore – TP Eval JPA / Hibernate
 
 ## Auteur
-> Ajouter votre nom et prénom ici
+> Fiona Fauvelle
 
 ---
 
